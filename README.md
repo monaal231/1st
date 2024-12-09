@@ -1,2 +1,0 @@
-# howe-work
-homework
